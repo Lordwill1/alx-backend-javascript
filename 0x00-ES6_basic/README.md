@@ -218,7 +218,7 @@ This project contains tasks for learning the basics of ECMAScript 2015 (ES6).
   + It should return every employee name in a string, separated by ` | `.
 
 ## RESOURCES
-1. [https://intranet.alxswe.com/rltoken/NW1dFLFExQ12_hD8yvkV3A] (ECMAScript 6 - ECMAScript 2015)
+1. [https://intranet.alxswe.com/rltoken/NW1dFLFExQ12_hD8yvkV3A](ECMAScript 6 - ECMAScript 2015)
 2. [https://intranet.alxswe.com/rltoken/sroRUsUvOZV28V99MHDenw] (Statements and declarations
 )
 3. [https://intranet.alxswe.com/rltoken/N2WLylppCtkkX3YFFtyUHw] (Arrow functions)
