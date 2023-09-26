@@ -161,3 +161,8 @@ This project contains tasks for learning to use TypeScript.
     + Each function takes two arguments `subject1` and `subject2`.
     + `sumMajorCredits` returns `MajorCredits` value and `sumMinorCredits` returns `MinorCredits` value.
     + Each function sums the credits of the two subjects.
+    + 
+
+    ** RESOURCES
+    + [x] [Typescript in 5 mins](https://intranet.alxswe.com/rltoken/waTSa9Mguj912pel9On57w)
+    + [x] [Typescript Documentation](https://intranet.alxswe.com/rltoken/iPO8DlHCGzc1jnojLoP9HA) 
