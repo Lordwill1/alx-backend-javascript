@@ -218,10 +218,9 @@ This project contains tasks for learning the basics of ECMAScript 2015 (ES6).
   + It should return every employee name in a string, separated by ` | `.
 
 ## RESOURCES
-1. [https://intranet.alxswe.com/rltoken/NW1dFLFExQ12_hD8yvkV3A](ECMAScript 6 - ECMAScript 2015)
-2. [https://intranet.alxswe.com/rltoken/sroRUsUvOZV28V99MHDenw] (Statements and declarations
-)
-3. [https://intranet.alxswe.com/rltoken/N2WLylppCtkkX3YFFtyUHw] (Arrow functions)
-4. [https://intranet.alxswe.com/rltoken/kbw9gMO6sdeOKAY23SYVgA] (Default parameters)
-5. [https://intranet.alxswe.com/rltoken/erZfCvacuGVk9z1CQlJvYQ] (Rest parameter)
-6. [https://intranet.alxswe.com/rltoken/WlEqaX0Hm0SmKHDH9U_EBg] (Javascript ES6 — Iterables and Iterators)
++ [x] [ECMAScript 6 - ECMAScript 2015](https://intranet.alxswe.com/rltoken/NW1dFLFExQ12_hD8yvkV3A)
++ [x] [Statements and declarations](https://intranet.alxswe.com/rltoken/sroRUsUvOZV28V99MHDenw)
++ [x] [Arrow functions](https://intranet.alxswe.com/rltoken/N2WLylppCtkkX3YFFtyUHw)
++ [x] [Default parameters](https://intranet.alxswe.com/rltoken/kbw9gMO6sdeOKAY23SYVgA)
++ [x] [Rest parameter](https://intranet.alxswe.com/rltoken/erZfCvacuGVk9z1CQlJvYQ)
++ [x] [Javascript ES6 — Iterables and Iterators](https://intranet.alxswe.com/rltoken/WlEqaX0Hm0SmKHDH9U_EBg)
