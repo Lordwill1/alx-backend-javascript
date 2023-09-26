@@ -83,3 +83,10 @@ This project contains tasks for learning to manipulate data in ECMAScript 2015 (
     ```
   + Track within the `weakMap` the number of times `queryAPI` is called for each endpoint.
   + When the number of queries is >= 5 throw an error with the message `Endpoint load is high`.
+
+## RESOURCES
++ [x] [Array](https://intranet.alxswe.com/rltoken/bcXqK1IaIHtrZ45sv0RxsQ)
++ [x] [Typed Array](https://intranet.alxswe.com/rltoken/YZ5RtzAPTaWtF00MYbXuVw)
++ [x] [Set Data Structure](https://intranet.alxswe.com/rltoken/Ch8vq39y9QnlTMr8CymgEg)
++ [x] [Map Data structure](https://intranet.alxswe.com/rltoken/W29MV3f8Ii4HmeJSALNIpw)
++ [x] [Weakmap](https://intranet.alxswe.com/rltoken/pSetFVFeIR660GPE0flPdg)  
