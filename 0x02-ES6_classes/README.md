@@ -141,3 +141,7 @@ This project contains tasks for learning to use classes in ECMAScript 2015 (ES6)
       + `range` (String).
     + Each attribute must be stored in an "underscore" attribute version (ex: `name` is stored in `_name`).
     + For privacy reasons, when `cloneCar` is called on an `EVCar` object, the object returned should be an instance of `Car` instead of `EVCar`.
+
+## RESOURCES
++ [x] [Classes](https://intranet.alxswe.com/rltoken/ke2dSL31JbpAUBW0qWE9WA)
++ [ ] [Metaprogramming](https://intranet.alxswe.com/rltoken/6OgF5QGbYclp_cwATfq-0g)
