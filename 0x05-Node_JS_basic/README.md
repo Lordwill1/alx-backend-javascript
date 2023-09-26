@@ -101,3 +101,10 @@ This project contains tasks for learning to the basics of NodeJS.
         "presets": [["env", {"exclude": ["transform-regenerator"]}]]
     }
     ```
+## RESOURCES
++ [x] [Node js getting started](https://intranet.alxswe.com/rltoken/DsbbpVM05J3r6rd_2u8mPw)
++ [x] [Process API Doc](https://intranet.alxswe.com/rltoken/Wt69QV2xygB4GEqob26AjQ)
++ [x] [Child Process](https://intranet.alxswe.com/rltoken/IS4y9rRCblX71W_oeXpymw)
++ [x] [Express getting started](https://intranet.alxswe.com/rltoken/XsfrhG9NRLuuaTpVZlZv_g)
++ [x] [Mocha documentation](https://intranet.alxswe.com/rltoken/EBGDj1FwLrK_y4kgxp8hfg)
++ [x] [Nodedomentation](https://intranet.alxswe.com/rltoken/vnDSbLsicMDdxcf5YUSXIg)    
