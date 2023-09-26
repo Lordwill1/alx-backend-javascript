@@ -390,3 +390,11 @@ This project contains tasks for learning to create unittests in NodeJS.
     + You should be able to run the test suite using `yarn test 10-api/api.test.js`.
     + Every test should pass without any warning.
     + Your server should not display any error.
+    + 
+    ## RESOURCES
+    + [x] [Mocha documentation](https://intranet.alxswe.com/rltoken/Gx5mfX41__cc2hwepcl0aA)
+    + [x] [Chia](https://intranet.alxswe.com/rltoken/Rs3SrSdr9OxPp-4099A0cg)
+    + [x] [Sinon](https://intranet.alxswe.com/rltoken/5KsW5N9sG3sGWW3z-jkNwA)
+    + [x] [Express](https://intranet.alxswe.com/rltoken/Jq58SNUh8jcZqKoFcuOQdw)
+    + [x] [Request](https://intranet.alxswe.com/rltoken/FcJfzr2jUJSj8Xp3z9L1wg)
+    + [x] [How to Test NodeJS Apps using Mocha, Chai and SinonJS](https://intranet.alxswe.com/rltoken/HwB8gViDosy8znk7H9i4Pw)   
