@@ -397,4 +397,4 @@ This project contains tasks for learning to create unittests in NodeJS.
     + [x] [Sinon](https://intranet.alxswe.com/rltoken/5KsW5N9sG3sGWW3z-jkNwA)
     + [x] [Express](https://intranet.alxswe.com/rltoken/Jq58SNUh8jcZqKoFcuOQdw)
     + [x] [Request](https://intranet.alxswe.com/rltoken/FcJfzr2jUJSj8Xp3z9L1wg)
-    + [x] [How to Test NodeJS Apps using Mocha, Chai and SinonJS](https://intranet.alxswe.com/rltoken/HwB8gViDosy8znk7H9i4Pw)   
+    + [x] [How to Test NodeJS Apps using Mocha, Chia and SinonJS](https://intranet.alxswe.com/rltoken/HwB8gViDosy8znk7H9i4Pw)   
