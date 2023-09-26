@@ -85,8 +85,8 @@ This project contains tasks for learning to use Promises in ECMAScript 2015 (ES6
     }
     ```
     ## RESOURCES
-    [PROMISE](https://intranet.alxswe.com/rltoken/j_0FTFbkTg42JMcAbNPOVQ)
-    [Javascript Promise: An introduction](https://intranet.alxswe.com/rltoken/2Q2LzNFokcUwpA2u3FKG6Q)
-    [Await](https://intranet.alxswe.com/rltoken/UXb3S2PMBe-SLJ55isMcow)
-    [Async](https://intranet.alxswe.com/rltoken/_K0C7pgEjwaIzU9RpwCb8g)
-    [Throw/Try](https://intranet.alxswe.com/rltoken/UTjDgvKk5l892Xslh0vqcQ)
+    + [x] [PROMISE](https://intranet.alxswe.com/rltoken/j_0FTFbkTg42JMcAbNPOVQ)
+    + [x] [Javascript Promise: An introduction](https://intranet.alxswe.com/rltoken/2Q2LzNFokcUwpA2u3FKG6Q)
+    + [x] [Await](https://intranet.alxswe.com/rltoken/UXb3S2PMBe-SLJ55isMcow)
+    + [x] [Async](https://intranet.alxswe.com/rltoken/_K0C7pgEjwaIzU9RpwCb8g)
+    + [x] [Throw/Try](https://intranet.alxswe.com/rltoken/UTjDgvKk5l892Xslh0vqcQ)
